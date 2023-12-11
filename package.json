@@ -10,6 +10,9 @@
   },
   "dependencies": {
     "antd": "^5.2.1",
+    "axios": "^1.6.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
     "firebase": "^9.17.1",
     "firebase-tools": "^11.24.0",
     "localforage": "^1.10.0",
@@ -32,5 +35,10 @@
     "@types/react-dom": "^18.0.10",
     "@vitejs/plugin-react": "^3.1.0",
     "vite": "^4.5.1"
-  }
+  },
+  "description": "1. Authentication 2. Start a Post 3. Update a Post 4. Delete a Post 5. Add Connections 6. Like and Comment on a Post 7. Update Profile 8. See Other Profiles 9. Add a Profile Picture 10. Add Post Images 11. Search For Other Users",
+  "main": "vite.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

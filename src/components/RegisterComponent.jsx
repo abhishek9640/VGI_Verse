@@ -71,7 +71,7 @@ export default function RegisterComponent() {
       <div className="google-btn-container">
         <GoogleButton onClick={GoogleSignInAPI} />
         <p className="go-to-signup">
-          Already on LinkedIn?{" "}
+          Already on V-verse?{" "}
           <span className="join-now" onClick={() => navigate("/")}>
             Sign in
           </span>
